@@ -1,6 +1,4 @@
-# Flutter 'Furniture App UI'
 
-A Flutter app based on the design of the Furniture App UI, created by Mehedi Hasan [see more on](https://mehedihasaninfo.com/ "I am flutter developer")
 
 ## Greating Start
 
@@ -28,14 +26,6 @@ Feel welcome and free to submit issues, pull requests and features to this repo.
 
 I really like to make as much (free) beautiful Flutter UI , I want to  your inspiresion !
 
-## Other Flutter Apps
-
-There are other example Apps made with flutter, see more on Interestinate.
-
-Or the following repo's:
-
-A Fitness  Flutter App: [Fitness App UI](https://github.com/flutterbangladesh/fitness-app-flutter)
-A eDaktar App Flutter : [eDaktar App UI](https://github.com/jpmehedi/edaktar_app_flutter)
 
 
 
